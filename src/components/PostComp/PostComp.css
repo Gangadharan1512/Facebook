@@ -1,0 +1,15 @@
+.post{
+    margin-top: 20px;
+    display: block;
+    height: 100vh;
+    position: relative;
+}
+
+.post-field{
+    position: relative;
+    width: 520px;
+    background-color: white;
+    height: 600px;
+    margin: 40px;
+    border-radius: 20px;
+}

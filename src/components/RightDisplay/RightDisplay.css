@@ -1,0 +1,47 @@
+right-display {
+    display: flex;
+    flex-direction: column;
+   
+}
+
+
+.ri-di-top img{
+    height: 20px;
+    padding-left: 150px;
+}
+
+.contact-field img{
+    height: 30px;
+    border-radius: 50%;
+    border: #4f4f50 solid;
+}
+
+.ri-di-top{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.ri-di-top p{
+    font-size: 20px;
+    font-weight: 500;
+    color: #4f4f50;
+    padding-left: 10px;
+}
+
+.contact-field{
+    padding-left: 15px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+    margin: 10px;
+}
+
+.contact-field:hover{
+    background-color: #f7f7f7;
+    cursor: pointer;
+    border-radius: 10px;
+}
